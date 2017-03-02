@@ -1,0 +1,13 @@
+7 12
+W W W W W W W W W W W W
+W O E O L O O O O O O W
+W L O O O O R O O L O W
+W O O O O O O O O O O W
+W O O O O O O O O O O W
+W O O O O O O O O O O W
+W W W W W W W W W W W W
+Legend:
+O - Open Tile
+L - Loot
+R - Character 1
+E - Enemy
